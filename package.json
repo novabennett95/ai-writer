@@ -1,0 +1,27 @@
+{
+  "name": "novabennett95-ai-writer",
+  "version": "1.0.0",
+  "description": "AI Writer generates SEO-optimized blog posts, articles, and content instantly with AI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-writer",
+    "ai",
+    "content-generator",
+    "blog",
+    "seo",
+    "copywriting",
+    "javascript",
+    "nodejs",
+    "saas"
+  ],
+  "author": "Ghostii",
+  "license": "ISC",
+  "homepage": "https://ghostii.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/ai-writer.git"
+  }
+}
